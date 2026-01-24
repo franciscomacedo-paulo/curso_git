@@ -1,1 +1,2 @@
 Testanto o meu novo repositório no github
+Estamos a ver o comando git status, e sua funcionalidades
