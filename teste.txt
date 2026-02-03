@@ -3,3 +3,4 @@ Estamos a ver o comando git status, e sua funcionalidades
 Paragrafo adicionado apartir do repositório clonado.
 Vamos falar de outros comandos na aula de hoje o comando git rm
 Estamos a ver comandos incriveis na aula de git, hoje por exemplo estamos a aprender, como trocar de Branchs
+Não tem de que foi um prazer ajudar a solucionar o problema.
